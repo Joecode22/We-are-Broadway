@@ -1,6 +1,6 @@
 # Codecademy - Broadway Portfolio Project
 
-![Website Image](https://github.com/YourGitHubUsername/BroadwayPortfolio/assets/screenshot.png)
+![Website Image](https://github.com/Joecode22/We-are-Broadway/assets/93625431/05dca2c8-f4ad-4872-a9a8-39ab79bcd7a8)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -17,7 +17,7 @@
 The Broadway Portfolio Project is an elegant HTML and CSS website designed to showcase a clean, modern, and responsive layout. This project is ideal for displaying the fusion of design and development skills in web projects.
 
 ## Live Demo
-View the live demo of the project here: [Broadway Portfolio Live Demo](https://yourusername.github.io/BroadwayPortfolio/)
+View the live demo of the project here: [Broadway Portfolio Live Demo](https://joecode22.github.io/We-are-Broadway/)
 
 ## Features
 - **Fixed Header and Footer:** Consistent navigation and branding across all pages.
